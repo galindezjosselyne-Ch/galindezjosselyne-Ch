@@ -10,12 +10,6 @@ Soy auxiliar de enfermeria y ahora programadora en formación. He decidido dar u
 🎯 Objetivo: Convertirme en desarrolladora full-stack
 ✨ Motivación: Crear soluciones tecnológicas que impacten positivamente en la vida de las personas
 💪 Mentalidad: Dispuesta a enfrentar todos los retos que este nuevo camino me presente
-🛠️ Tecnologías que Estoy Aprendiendo
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
 
 🌟 Mi Enfoque
 "La combinación de empatía, cuidado y pensamiento lógico de la enfermería me da una perspectiva única en el desarrollo de software. Cada línea de código es una oportunidad para resolver problemas y mejorar vidas."
